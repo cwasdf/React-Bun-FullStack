@@ -1,0 +1,2 @@
+Run `bun install` once after extracting this starter. Bun will create `bun.lock`.
+Commit that generated lockfile, and then use `bun install --frozen-lockfile` in CI/production.
